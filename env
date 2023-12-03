@@ -1,0 +1,2 @@
+DATABASE_URL=postgresql://user:password@localhost/book_service
+SECRET_KEY=mysecretkey
